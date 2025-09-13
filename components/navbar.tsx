@@ -32,9 +32,6 @@ export function Navbar(){
           </div>
           <div className="flex items-center gap-4">
             <ThemeToggle />
-            <Button variant="ghost" className="hidden md:inline-flex dark:text-gray-300 dark:hover:text-white cursor-pointer">
-              Log in
-            </Button>
             <Button className="bg-orange-500 hover:bg-orange-600 dark:bg-orange-600 dark:hover:bg-orange-700 cursor-pointer">
               Get Started
             </Button>
