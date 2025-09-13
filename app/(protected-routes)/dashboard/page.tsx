@@ -6,6 +6,9 @@ import { getAllTodos } from "@/actions/todos";
 import { redirect } from "next/navigation";
 import { serializeTodos, serializeUser } from "@/lib/serialize";
 
+// Force dynamic rendering
+export const dynamic = 'force-dynamic';
+
 export default async function HomePage() {
   const user = await onAuthenticateUser();
 

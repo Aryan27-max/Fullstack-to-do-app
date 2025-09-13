@@ -37,7 +37,6 @@ const UserSchema = new Schema<IUser>({
   timestamps: true,
 });
 
-// Create index for clerkId for better performance
-UserSchema.index({ clerkId: 1 });
+// Index is already created by unique: true constraint
 
 export default mongoose.models.User || mongoose.model<IUser>('User', UserSchema);
