@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MSA RECRUITMENT TASK 1 - BACKEND CRUD AND AUTH 
+
+# FULLSTACK TODO APP 
+
+## SPECS - 
+
+## TECH STACK 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## DATABSE 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## AUTHENTICATION 
+![Clerk](https://img.shields.io/badge/Clerk-2C2C2C?style=for-the-badge&logo=clerk&logoColor=white)
+
+## DEPLOYMENT 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ## Getting Started
 
