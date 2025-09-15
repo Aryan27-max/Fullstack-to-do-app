@@ -110,7 +110,7 @@ export function Footer() {
             </div>
           </div>
           <div className="border-t border-gray-800 dark:border-gray-700 mt-12 pt-8 text-center">
-            <p> Made with ❤️ </p>
+            <p> Made with ❤️ Aryan27-max-Github </p>
           </div>
         </div>
       </footer>
